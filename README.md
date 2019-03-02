@@ -1,3 +1,2 @@
-# 3D Cat
-A Sad Low-Poly Cat without a face and legs
-![Sad Cat](cat.png?raw=true "Sad Catt")
+# Kissing Cats
+![Kissing Cats](Renders/Close.png?raw=true "Kissing Cats")
